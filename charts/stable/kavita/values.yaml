@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/kavita
   pullPolicy: IfNotPresent
-  tag: v0.7.2@sha256:f179e4b32af7fce6d51276bc7077118156d8e5652d04b95eca7ae388a8206680
+  tag: v0.7.5@sha256:22136cb9604ce51252c458b1b8bef9f3c74892f5b6ee3bef96940d069b57dea1
 service:
   main:
     ports:
